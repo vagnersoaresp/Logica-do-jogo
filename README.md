@@ -89,6 +89,4 @@ Cada carta é representada por uma estrutura `Carta` que contém:
 
 Este projeto foi desenvolvido como parte de um desafio acadêmico para a disciplina de Lógica de Programação.
 
-## Prazo de Entrega
 
-17/06/2025
